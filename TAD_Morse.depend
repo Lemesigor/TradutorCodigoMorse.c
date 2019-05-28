@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1512613891 source:c:\users\igor\desktop\tad_morse\tad-morse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"tad-morse.h"
+
+1512613609 c:\users\igor\desktop\tad_morse\tad-morse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1512610291 source:c:\users\fpedros\downloads\tad_morse\tad-morse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"tad-morse.h"
+
+1512613077 c:\users\fpedros\downloads\tad_morse\tad-morse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1512685274 source:c:\users\igor\desktop\tad_morse\tad_morse_argumentos\tad-morse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"tad-morse.h"
+
+1512684182 c:\users\igor\desktop\tad_morse\tad_morse_argumentos\tad-morse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1513479429 source:c:\users\igor\dropbox\programação\estrutura de dados\trabalho final ed\tad_morse_argumentos\tad-morse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"tad-morse.h"
+
+1512684182 c:\users\igor\dropbox\programação\estrutura de dados\trabalho final ed\tad_morse_argumentos\tad-morse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1513479475 source:c:\users\igor\dropbox\programação\estrutura de dados\trabalho final ed\tad_morse_argumentos\main_conversor_morse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"tad-morse.h"
+
